@@ -28,9 +28,9 @@
 
 <div align="center"><h3>My Git Stats</h3></div> 
 
-[![hongseop's GitHub stats](https://github-readme-stats.vercel.app/api?username=자신의 이름&theme=calm)](https://github.com/깃허브 아이디/github-readme-stats)
+[![hongseop's GitHub stats](https://github-readme-stats.vercel.app/api?username=깃허브 아이디&theme=calm)](https://github.com/깃허브 아이디/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=자신의 이름&layout=compact&theme=gruvbox)](https://github.com/깃허브 아이디/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브 아이디&layout=compact&theme=gruvbox)](https://github.com/깃허브 아이디/github-readme-stats)
 </h4>
 <br>
 <br>
