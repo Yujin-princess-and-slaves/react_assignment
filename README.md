@@ -32,3 +32,19 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=자신의 이름&layout=compact&theme=gruvbox)](https://github.com/깃허브 아이디/github-readme-stats)
 </h4>
+<br>
+<br>
+깃허브 뱃지 만들기 위한 색상 코드 사이트 - https://simpleicons.org/<br>
+상단에 들어가는 색상 코드 사이 - https://html-color-codes.info/Korean/
+
+<조건><br>
+완성된 코드에는 상단에 들어가는 자신을 나타내는 말과 studying, to study, git stats, tool은 들어가야 한다.
+추가로 더 꾸미고 싶으면 더 해도 상관 없다. 
+완성 했으면 완성 했다고 스터디 그룹 단톡에 톡을 남긴다.
+
+잘 모르겠다면 junghongseop, jyj1289에 들어가서 참고해도 좋다.
+
+제출 일은 6월 25일 23시59분까지 이다.
+
+질문은 오후12시부터 오후5시까지 받는다.
+
